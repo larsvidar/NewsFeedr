@@ -2,7 +2,7 @@
     <string name="app_name">NewsFeedr</string>
     <string name="logo">NewsFeedr</string>
     <string name="tag_line">News from The Guardian</string>
-    <string name="footer_text">NewFeedr is a news feed that is using The Guardians API.</string>
+    <string name="footer_text">NewFeedr is a news feed that is using The Guardian\'s API.</string>
     <string name="byline">By</string>
     <string name="published">Published:</string>
     <string name="no_connection">No connection. Connect to the internet to get news stories.</string>
