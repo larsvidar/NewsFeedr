@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- General sizes -->
+    <dimen name="logo_padding">16dp</dimen>
+    <dimen name="news_items_padding">18dp</dimen>
+    <dimen name="article_margin_bottom">8dp</dimen>
+    <dimen name="list_margin_top">104dp</dimen>
+    <dimen name="list_margin_bottom">96dp</dimen>
+    <dimen name="divider_height">0dp</dimen>
+    <dimen name="empty_view_width">200dp</dimen>
+    <dimen name="footer_text_width">250dp</dimen>
+    <dimen name="button_height">48dp</dimen>
+    <dimen name="author_width">250dp</dimen>
+
+    <!-- Text sizes -->
+    <dimen name="logo_text">34sp</dimen>
+    <dimen name="section_text">20sp</dimen>
+    <dimen name="article_text">16sp</dimen>
+    <dimen name="info_text">12sp</dimen>
+
+</resources>

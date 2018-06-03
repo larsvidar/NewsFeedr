@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">NewsFeedr</string>
+    <string name="logo">NewsFeedr</string>
+    <string name="tag_line">News from The Guardian</string>
+    <string name="footer_text">NewFeedr is a news feed that is using The Guardians API.</string>
+    <string name="byline">By</string>
+    <string name="published">Published:</string>
+    <string name="no_connection">No connection. Connect to the internet to get news stories.</string>
+    <string name="no_stories">No news stories to display.</string>
+    <string name="update_button">Update</string>
+    <string name="loading">Loading...</string>
+
+    <!-- Preference strings -->
+    <string name="settings_title">News Settings</string>
+
+    <!-- Category settings -->
+    <string name="news_category_title">Category</string>
+    <string name="news_category_key">news_category</string>
+    <string name="default_search">technology</string>
+
+    <string name="setting_news_category_1">Technology</string>
+    <string name="setting_news_category_2">Politics</string>
+    <string name="setting_news_category_3">Business</string>
+    <string name="setting_news_category_4">Sport</string>
+    <string name="setting_news_category_5">Film</string>
+    <string name="setting_news_category_6">Fashion</string>
+
+    <string name="setting_news_category_1_value">technology</string>
+    <string name="setting_news_category_2_value">politics</string>
+    <string name="setting_news_category_3_value">business</string>
+    <string name="setting_news_category_4_value">sport</string>
+    <string name="setting_news_category_5_value">film</string>
+    <string name="setting_news_category_6_value">fashion</string>
+
+    <!-- Order settings -->
+    <string name="sort_order_title">Sort by</string>
+    <string name="sort_order_key">sort_order</string>
+    <string name="default_sort_order">newest</string>
+
+    <string name="setting_news_sort_by_newest">Newest</string>
+    <string name="setting_news_sort_by_oldest">Oldest</string>
+    <string name="setting_news_sort_by_relevance">Most Relevant</string>
+
+    <string name="setting_news_sort_by_newest_value">newest</string>
+    <string name="setting_news_sort_by_oldest_value">oldest</string>
+    <string name="setting_news_sort_by_relevance_value">relevance</string>
+</resources>

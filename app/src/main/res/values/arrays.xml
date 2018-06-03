@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_news_category">
+        <item>@string/setting_news_category_1</item>
+        <item>@string/setting_news_category_2</item>
+        <item>@string/setting_news_category_3</item>
+        <item>@string/setting_news_category_4</item>
+        <item>@string/setting_news_category_5</item>
+        <item>@string/setting_news_category_6</item>
+    </string-array>
+
+    <string-array name="settings_news_category_value">
+        <item>@string/setting_news_category_1_value</item>
+        <item>@string/setting_news_category_2_value</item>
+        <item>@string/setting_news_category_3_value</item>
+        <item>@string/setting_news_category_4_value</item>
+        <item>@string/setting_news_category_5_value</item>
+        <item>@string/setting_news_category_6_value</item>
+    </string-array>
+
+    <string-array name="settings_sort_order">
+        <item>@string/setting_news_sort_by_newest</item>
+        <item>@string/setting_news_sort_by_oldest</item>
+        <item>@string/setting_news_sort_by_relevance</item>
+    </string-array>
+
+    <string-array name="settings_sort_order_values">
+        <item>@string/setting_news_sort_by_newest_value</item>
+        <item>@string/setting_news_sort_by_oldest_value</item>
+        <item>@string/setting_news_sort_by_relevance_value</item>
+    </string-array>
+
+</resources>
